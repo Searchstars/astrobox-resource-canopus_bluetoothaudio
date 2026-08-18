@@ -17,7 +17,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "使用文档",
+      "url": "https://abox.run/docs/usage/canopus/bluetooth-audio",
+      "icon": "BookOpenText"
+    }
+  ],
   "downloads": {
     "xmb10p": {
       "version": "1.0.0",
