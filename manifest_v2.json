@@ -28,6 +28,16 @@
     "xmb10p": {
       "version": "1.0.1",
       "file_name": "downloads/bta-module-installer-prod-10p-043+036.v65537.bin"
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/bta-module-prod-11-139+155.v65536-xmb11.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/bta-module-prod-11-139+155.v65536-xmb11nfc.bin",
+      "versionCode": 65536
     }
   },
   "ext": {
