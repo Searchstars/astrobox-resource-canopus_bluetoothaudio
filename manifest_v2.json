@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "canopus_bluetoothaudio",
+    "id": "bluetooth_audio",
     "restype": "canopus",
     "name": "Canopus 蓝牙音频扩展模块",
     "description": "一个Canopus模块，为不支持连接蓝牙耳机的小米Vela穿戴设备补全蓝牙音频能力。",
