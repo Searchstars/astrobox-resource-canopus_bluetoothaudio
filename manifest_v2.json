@@ -29,7 +29,7 @@
     "xmb10p": {
       "version": "0.1.1",
       "file_name": "downloads/bluetooth_audio-0.1.1.canopus",
-      "versionCode": 65537,
+      "versionCode": 2,
       "canopus": {
         "abi": 2,
         "targets": [
@@ -44,7 +44,7 @@
     "xmb11": {
       "version": "0.1.1",
       "file_name": "downloads/bluetooth_audio-0.1.1.canopus",
-      "versionCode": 65537,
+      "versionCode": 2,
       "canopus": {
         "abi": 2,
         "targets": [
@@ -59,7 +59,7 @@
     "xmb11nfc": {
       "version": "0.1.1",
       "file_name": "downloads/bluetooth_audio-0.1.1.canopus",
-      "versionCode": 65537,
+      "versionCode": 2,
       "canopus": {
         "abi": 2,
         "targets": [
